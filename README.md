@@ -76,16 +76,6 @@ Each line represents a 32-bit instruction.
 
 ---
 
-## 📌 Future Improvements
-
-- Add pipelining stages (IF, ID, EX, MEM, WB)
-- Expand instruction set (e.g., shift, rotate)
-- Memory-mapped I/O
-- Hazard detection and forwarding
-- External assembler for custom ISA
-
----
-
 ## 🧑‍💻 Author
 
 **Aditya Padamwar**
