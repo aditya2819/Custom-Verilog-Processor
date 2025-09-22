@@ -1,6 +1,6 @@
 # Custom-Verilog-Processor
 
-A custom-built 32-bit processor designed using Verilog HDL. The processor supports arithmetic, logical, memory, and control flow operations with a RISC-style instruction set. This project demonstrates core concepts of CPU design including FSM-based control, instruction decoding, ALU design, memory interfacing, and condition flags.
+A custom-built 16-bit processor with 32 bit instruction format designed using Verilog HDL. The processor supports arithmetic, logical, memory, and control flow operations with a RISC-style instruction set. This project demonstrates core concepts of CPU design including FSM-based control, instruction decoding, ALU design, memory interfacing, and condition flags.
 
 ---
 
